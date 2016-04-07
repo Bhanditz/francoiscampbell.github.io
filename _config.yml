@@ -42,11 +42,11 @@ titlecase: true
 # Site owner
 owner:
   name: Francois Campbell
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  avatar: profile.jpg
+  bio: "EE student with interest in electronics and programming"
+  email: campbell.francois@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: francoiscampbel
   facebook: #username
   google:
     plus: #username
@@ -55,9 +55,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: francoiscampbell
+  stackoverflow: 3995632/francois-campbell
+  linkedin: francoiscampbell
   xing: #username
   instagram: #username
   lastfm: #username
