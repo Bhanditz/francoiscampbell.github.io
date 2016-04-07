@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Francois Campbell
 locale:           en_US
-url:
+url: #http://francoiscampbell.github.io
 
 
 # Jekyll configuration
@@ -41,7 +41,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Francois Campbell
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sample Link Post"
+categories: posts
 excerpt: "Example and code for using link posts."
 tags: [sample post, link post]
 link: http://mademistakes.com

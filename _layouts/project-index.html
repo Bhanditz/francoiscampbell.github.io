@@ -36,7 +36,7 @@
     <h1>{{ page.title }}</h1>
     {% capture written_year %}'None'{% endcapture %}
     {% for post in site.posts %}  
-      {% if post.categories contains 'posts' %}
+      {% if post.categories contains 'projects' %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if year != written_year %}
           <h3>{{ year }}</h3>
@@ -50,7 +50,7 @@
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
-      {% endif %}
+      {% endif %}  
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->

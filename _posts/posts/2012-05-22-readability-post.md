@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Testing Readability with a Bunch of Text"
+categories: posts
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
 comments: true
