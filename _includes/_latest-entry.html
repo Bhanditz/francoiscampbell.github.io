@@ -1,0 +1,19 @@
+<div>
+    <article class="recent-post">
+        <div class="headline-wrap">
+            {% if post.link %}
+                <h1>Latest entry: <a href="{{ post.url }}">{{ post.title }}</a> <a href="{{ post.link }}"
+                                                                                   target="_blank"
+                                                                                   title="{{ post.title }}"><i
+                                class="fa fa-link"></i></a></h1>
+            {% else %}
+                <h1>Latest entry: <a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a>
+                </h1>
+            {% endif %}
+        </div><!--/ .headline-wrap -->
+        <div class="article-wrap">
+            {{ content }}
+            <hr/>
+        </div><!-- /.article-wrap -->
+    </article>
+</div>
