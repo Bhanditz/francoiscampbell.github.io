@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16d36dc-46fa-44bf-bf15-6c3c5c781877" name="Default" comment="Removed">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2011-03-10-sample-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2012-05-22-readability-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-05-22-sample-post-images.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-05-23-readability-feature-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-08-12-sample-link-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-08-16-code-highlighting-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2014-07-31-author-override.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-07-test-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test-external-tool-new-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test-git-and-git-add-_posts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test-latest-post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/projects/2016-04-07-test-project.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/projects/2016-04-28-test-external-tool-new-project.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/projects/2016-04-28-test-project-git.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -299,7 +284,7 @@
       <workItem from="1461855330193" duration="3699000" />
       <workItem from="1461860987301" duration="1084000" />
       <workItem from="1463092145892" duration="24000" />
-      <workItem from="1463344223976" duration="534000" />
+      <workItem from="1463344223976" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="Added latest post to the homepage">
       <created>1461859185343</created>
@@ -322,11 +307,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463344659262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed test posts">
+      <created>1463344771991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1463344771991</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5584000" />
+    <option name="totallyTimeSpent" value="5600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
@@ -368,7 +360,8 @@
     <MESSAGE value="Added latest post to the homepage" />
     <MESSAGE value="Added new test post" />
     <MESSAGE value="Added project for Xposed-DataUsage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added project for Xposed-DataUsage" />
+    <MESSAGE value="Removed test posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed test posts" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
