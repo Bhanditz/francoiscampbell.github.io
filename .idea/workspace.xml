@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e16d36dc-46fa-44bf-bf15-6c3c5c781877" name="Default" comment="Added new test post">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/projects/2016-05-15-xposed-datausage-a-data-usage-monitor-for-your-status-bar.md" />
+    <list default="true" id="e16d36dc-46fa-44bf-bf15-6c3c5c781877" name="Default" comment="Removed">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2011-03-10-sample-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2012-05-22-readability-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-05-22-sample-post-images.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-05-23-readability-feature-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-08-12-sample-link-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2013-08-16-code-highlighting-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2014-07-31-author-override.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-07-test-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test-external-tool-new-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test-git-and-git-add-_posts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test-latest-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/posts/2016-04-28-test.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/projects/2016-04-07-test-project.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/projects/2016-04-28-test-external-tool-new-project.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/projects/2016-04-28-test-project-git.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="francoiscampbell.github.io.iws" />
@@ -47,32 +62,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-04-28-test-external-tool-new-post.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/posts/2016-04-28-test-external-tool-new-post.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-04-28-test-external-tool-new-project.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/projects/2016-04-28-test-external-tool-new-project.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".jshintrc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.jshintrc">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,25 +72,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-08-12-sample-link-post.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/posts/2013-08-12-sample-link-post.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-05-15-xposed-datausage-a-data-usage-monitor-for-your-status-bar.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-05-15-xposed-datausage-a-data-usage-monitor-for-your-status-bar.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/projects/2016-05-15-xposed-datausage-a-data-usage-monitor-for-your-status-bar.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -109,28 +85,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-04-28-test-project-git.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/projects/2016-04-28-test-project-git.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-04-07-test-project.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/projects/2016-04-07-test-project.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="195">
-                <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -170,6 +130,7 @@
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_posts/posts/2016-04-28-test-latest-post.md" />
         <option value="$PROJECT_DIR$/_posts/projects/2016-05-15-xposed-datausage-a-data-usage-monitor-for-your-status-bar.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -244,24 +205,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fcampbell.xyz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fcampbell.xyz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -356,7 +299,7 @@
       <workItem from="1461855330193" duration="3699000" />
       <workItem from="1461860987301" duration="1084000" />
       <workItem from="1463092145892" duration="24000" />
-      <workItem from="1463344223976" duration="420000" />
+      <workItem from="1463344223976" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="Added latest post to the homepage">
       <created>1461859185343</created>
@@ -372,11 +315,18 @@
       <option name="project" value="LOCAL" />
       <updated>1461859315837</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added project for Xposed-DataUsage">
+      <created>1463344659262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463344659262</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5470000" />
+    <option name="totallyTimeSpent" value="5584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
@@ -387,7 +337,7 @@
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32791328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -417,7 +367,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Added latest post to the homepage" />
     <MESSAGE value="Added new test post" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new test post" />
+    <MESSAGE value="Added project for Xposed-DataUsage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project for Xposed-DataUsage" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -426,14 +377,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_templates/page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -860,11 +803,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/projects/2016-05-15-xposed-datausage-a-data-usage-monitor-for-your-status-bar.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
