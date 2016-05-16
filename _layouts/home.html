@@ -39,15 +39,15 @@
       {% include _latest-entry.html %}
     </div>
     <div>
-      <h3><a href="{{ site.url }}/posts/">Recent Posts</a></h3>
+      <h3><a href="{{ site.baseurl }}/posts/">Recent Posts</a></h3>
       {% assign posts = site.categories["posts"] %}
       {% for post in posts limit:5 %}
         <article>
           {% if post.link %}
-            <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <h2 class="link-post"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
               <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
           {% else %}
-            <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
@@ -55,18 +55,18 @@
     </div>
 
     <div>
-      <h3><a href="{{ site.url }}/projects/">Recent Projects</a></h3>
+      <h3><a href="{{ site.baseurl }}/projects/">Recent Projects</a></h3>
       {% assign projects = site.categories["projects"] %}
       {% for project in projects limit:5 %}
         <article>
           {% if project.link %}
-            <h2 class="link-project"><a href="{{ site.url }}{{ project.url }}"
+            <h2 class="link-project"><a href="{{ site.baseurl }}{{ project.url }}"
                                         title="{{ project.title }}">{{ project.title }}</a> <a href="{{ project.link }}"
                                                                                                target="_blank"
                                                                                                title="{{ project.title }}"><i
                         class="fa fa-link"></i></a></h2>
           {% else %}
-            <h2><a href="{{ site.url }}{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></h2>
+            <h2><a href="{{ site.baseurl }}{{ project.url }}" title="{{ project.title }}">{{ project.title }}</a></h2>
             <p>{{ project.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
