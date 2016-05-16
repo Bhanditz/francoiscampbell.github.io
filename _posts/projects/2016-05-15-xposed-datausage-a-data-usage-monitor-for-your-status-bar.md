@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DataUsage: An Xposed module to show the current cycle's data usage in the status bar"
+title: DataUsage&#58 An Xposed module to show the current cycle's data usage in the status bar
 modified:
 categories: projects
 link: Xposed-DataUsage
