@@ -3,7 +3,7 @@ layout: post
 title: DataUsage&#58 An Xposed module to show the current cycle's data usage in the status bar
 modified:
 categories: projects
-link: Xposed-DataUsage
+link: http://fcampbell.xyz/Xposed-DataUsage
 excerpt:
 tags: []
 image:
