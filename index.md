@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "My blog and project portfolio"
+tags: [Portfolio, Android, electronics]
 image:
   feature:
   credit:
